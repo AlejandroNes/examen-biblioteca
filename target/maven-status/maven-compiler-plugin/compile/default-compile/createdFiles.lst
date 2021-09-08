@@ -1,0 +1,5 @@
+com\test\conexion\VariablesConexion.class
+com\test\bean\LibroBean.class
+com\test\bean\PrestamoBean.class
+com\test\bean\UsuarioBean.class
+com\test\bean\AutorBean.class
